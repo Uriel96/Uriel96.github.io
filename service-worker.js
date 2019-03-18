@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.82a457f73f8a142846e80409721f8ffe.js"
+  "/precache-manifest.b90198f8a56a454f145e545f8189e379.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "webtoo-frontend"});
